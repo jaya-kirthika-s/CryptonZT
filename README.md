@@ -241,7 +241,7 @@ We welcome contributions to CryptonZT! Here's how you can help:
 
 ### 🔗 **Important Links**
 
-[![GitHub](https://img.shields.io/badge/GitHub-SURIYAPRASAAD04-black?style=for-the-badge&logo=github)](https://github.com/jaya-kirthika-s)
+[![GitHub](https://img.shields.io/badge/GitHub-JAYAKIRTHIKA-black?style=for-the-badge&logo=github)](https://github.com/jaya-kirthika-s)
 [![Documentation](https://img.shields.io/badge/Full%20Documentation-Google%20Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/drive/folders/1BUPTkQP4TEwCYBLkbnCF-9j_94_uMP8G?usp=sharing)
 
 ### **Show Your Support**
